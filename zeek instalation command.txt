@@ -1,5 +1,15 @@
 The following commands are used to install Zeek on Ubuntu Desktop 20.04.3 operating system:
-
+->first insert gust addition at device on ubuntu
+->goto software update on ubuntu and run(by riht click and cmd)
+-> at end close
+->on terminal :- 
+-> software-properties-gtk
+->sudo aoutoclean
+->sudo dpkg --configure -a
+->sudo apt -f install where f=fixe broken
+->sudo apt update 
+->sudo apt upgrade
+## if the bilow code make error first try the above code and                
 sudo su
 
 sudo apt update
